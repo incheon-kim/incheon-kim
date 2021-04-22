@@ -23,4 +23,4 @@ Hola amigos! I'm incheon-kim from Incheon, South Korea.
 **ᄅ. Stats**
 <!-- stat cards -->
 [![incheon-kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=incheon-kim)](https://github.com/anuraghazra/github-readme-stats)
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/minwkim?privacyEmail=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)
+<!--[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/minwkim?privacyEmail=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)-->
